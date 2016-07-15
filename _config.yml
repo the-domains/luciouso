@@ -1,8 +1,8 @@
 layout_spectrum: 0.4587814
-color:
-  saturation: 0.1182796
-  brandStrength: 0.8799283
-  lightness: 0.8315412
-  rhythmicContrast: 0.1827957
 typography_spectrum: 0.6541219
+color:
+  saturation: 0
+  lightness: 0.5967742
+  brandStrength: 0.8799283
+  rhythmicContrast: 1
 name: Luciouso
